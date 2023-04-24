@@ -54,4 +54,4 @@ Contributions are welcome! If you find a bug or want to add a new feature, pleas
 
 ## License
 
-This program is licensed under the MIT License. See `LICENSE` for more information.
+This program is licensed under the MIT License. See [LICENSE](https://github.com/TheHumanoidTyphoon/fake-data-generator-and-geocoding-tool/blob/master/LICENSE) for more information.
